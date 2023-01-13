@@ -30,11 +30,6 @@ public class Main {
 
 
 
-//
-//            System.out.println(cat.getNameCat());
-//            System.out.println(cat.getAgeCat());
-//            System.out.println(cat.getColorCat());
-//            System.out.println(cat.getBreedCat());
 
 
             System.out.println("Поиграем с котом да (д) или нет(н)\n");
